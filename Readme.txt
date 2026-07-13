@@ -1,2 +1,4 @@
-/api/bookings/
-/api/registration/
+/restaurant/menu/
+/restaurant/bookings/
+/auth/users/
+/auth/token/login/
